@@ -1,1 +1,1 @@
-# srvivial
+# survivial
